@@ -1,6 +1,6 @@
 # ToDoList
 
-> Server side - Node.js.
+> Server side - Node.js (Express).
 
 > DB - mongoDB, using mongoose package.
 
